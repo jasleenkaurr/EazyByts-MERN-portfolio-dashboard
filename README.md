@@ -2,6 +2,7 @@
 * Hosted on Netlify : LINK : https://jasleendashboard.netlify.app
 * USE email:jkaur4_be21@thapar.edu
 * PASSWORD:12345678
+* Backend code : https://github.com/jasleenkaurr/MERN-portfolio-backend
 * VIDEO of the portfolio:
 
  
